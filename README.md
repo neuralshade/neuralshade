@@ -1,4 +1,4 @@
-## Hi, I’m Jairo 👋
+## Hi, I’m Jairo 👋 I'm Computer Scientist, Mathematical Social Modeller
 Software developer working with **Java** and **Python**.
 
 I studied **Computer Science** at the Federal University of Ceará (UFC), but didn’t complete the degree.
