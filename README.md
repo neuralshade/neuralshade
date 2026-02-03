@@ -1,16 +1,16 @@
 ## Hi, I’m Jairo 👋  
-**Computer Science · Computational Social Modelling**
+## Computer Scientist, Computational Social Modeller
 
-Software developer working primarily with **Java** and **Python**, with a strong interest in **mathematical and computational models of social systems**.
+I’m a software developer who enjoys thinking about society as a system and translating those ideas into **mathematical and computational models**.
 
-I studied **Computer Science** at the Federal University of Ceará (UFC), but didn’t complete the degree.  
-Currently focused on building **personal SaaS projects**, strengthening my **backend skills**, and exploring how **complex social dynamics** can be represented through code and models.
+I work mainly with **Java** and **Python**, focusing on backend development, simulations, and exploratory modelling. I’m especially interested in how **social, economic, and ideological dynamics** emerge from simple rules and feedback loops.
 
-I enjoy working at the intersection of:
-- software engineering  
-- systems thinking  
-- social and economic modelling  
-- simulation and experimentation  
+I studied **Computer Science** at the Federal University of Ceará (UFC). Although I didn’t complete the degree, that path shaped how I think about problems: structurally, analytically, and through code.
+
+Currently, I’m building **personal SaaS projects**, sharpening my backend skills, and experimenting with models that sit at the intersection of:
+- Software engineering  
+- Systems thinking  
+- Social modelling
 
 📍 *1600 Algorithm Parkway, Mountain View, CA 94043*  
 *(United States of Code)*  
