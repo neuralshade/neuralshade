@@ -1,5 +1,4 @@
-## Hi, I’m Jairo 👋  
-## Computer Scientist, Computational Social Modeller
+## Hi, I’m Jairo 👋 Computer Scientist, Computational Social Modeller
 
 I’m a software developer who enjoys thinking about society as a system and translating those ideas into **mathematical and computational models**.
 
